@@ -1,0 +1,17 @@
+PIL
+base64
+dotenv
+io
+langchain
+langchain_experimental
+lida
+matplotlib
+numpy
+openai
+os
+pandas
+plotly
+seaborn
+statsmodels
+streamlit
+tempfile
