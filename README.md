@@ -1,4 +1,8 @@
- 1. OBJECTIVE:
+ 
+
+https://github.com/user-attachments/assets/eee08305-b189-45f2-bcc9-c86e9d23fd05
+
+1. OBJECTIVE:
 To develop an application that can perform dynamic statistical analysis of CSV files and create dashboard , Use LLMs & the Prompt to answer questions based on the uploaded CSV, to LLM model and generate plots based on the results.  
 2.	INTRODUCTION : \
 Streamlit-based Unified Data Analytics (UDA) is a web application with an easy-to-use interface that facilitates quick and thorough data analysis. Pandas is used by UDA to handle CSV files encoded with UTF-8.When the "Summarize" option is used, UDA uses ChatGPT Turbo and LIDA to generate goals and contextual summaries. The Seaborn library is used to generate visualizations, which are then supplied in base64 format and transformed into pictures. LIDA and ChatGPT Turbo handle user-defined queries for graph generation, generating pertinent visualizations.
